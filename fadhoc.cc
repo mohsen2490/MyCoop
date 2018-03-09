@@ -26,7 +26,6 @@ SetVerbose (std::string value)
   verbose = true;
   return true;
 }
-//kklklkllkkklkjkjskjssssssssssjjassssssssssssssssssssssssssssssssssssssssssssssssssssssssssn
 class CoopRtsHeader : public WifiMacHeader
 {
 public:
